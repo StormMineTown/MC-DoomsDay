@@ -21,12 +21,5 @@
 
 <p align="center">Gold Sponsor via <a href="https://opencollective.com/docsify">Open Collective</a></p>
 
-<p align="center">
-  <a href="https://opencollective.com/docsify/order/3254">
-    <img src="https://opencollective.com/docsify/tiers/gold-sponsor.svg?avatarHeight=36">
-  </a>
-</p>
 
 ## Links
-
-
