@@ -19,7 +19,4 @@
   <a href="https://gitpod.io/#https://github.com/docsifyjs/docsify"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
 </p>
 
-<p align="center">Gold Sponsor via <a href="https://opencollective.com/docsify">Open Collective</a></p>
-
-
 ## Links
