@@ -1,12 +1,12 @@
 # Security Policy
 
-If you believe you have found a security vulnerability in docsify, please report it to us asap.
+If you believe you have found a security vulnerability in MC-DoomsDay, please report it to us asap.
 
 ## Reporting a Vulnerability
 
 **Please do not report security vulnerabilities through our public GitHub issues.**
 
-Send email via :email: maintainers@docsifyjs.org to us.  
+Send email via :email: xingran01@qq.com to us.  
 
 Please include as much of the following information as possible to help us better understand the possible issue:
 
