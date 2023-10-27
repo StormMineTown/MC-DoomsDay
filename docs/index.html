@@ -18,7 +18,7 @@
   <link 
     rel="stylesheet"
     href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
-    title="dark"
+    title="docsify-darklight-theme"
     type="text/css"
   />
   <!-- 网站.css配置 -->
@@ -88,7 +88,48 @@
         }
       },
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
-      
+      // 当前主题配置信息
+      darklightTheme: {
+            // 设置字体
+            siteFont : "PT Sans",
+            // 切换默认光暗
+            defaultTheme : 'dark',
+            codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
+            // 字体大小
+            bodyFontSize : '17px',
+            // 暗配置
+            dark: {
+                accent: '#42b983',
+                toogleBackground : '#ffffff',
+                background: '#091a28',
+                textColor: '#b4b4b4',
+                codeTextColor : '#ffffff',
+                codeBackgroundColor : '#0e2233',
+                borderColor : '#0d2538',
+                blockQuoteColor : '#858585',
+                highlightColor : '#d22778',
+                sidebarSublink : '#b4b4b4',
+                codeTypeColor : '#ffffff',
+                coverBackground : 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
+                toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
+            },
+            // 光配置
+            light: {
+                accent: '#42b983',
+                toogleBackground : '#091a28',
+                background: '#ffffff',
+                textColor: '#34495e',
+                codeTextColor : '#525252',
+                codeBackgroundColor : '#f8f8f8',
+                borderColor : 'rgba(0, 0, 0, 0.07)',
+                blockQuoteColor : '#858585',
+                highlightColor : '#d22778',
+                sidebarSublink : '#b4b4b4',
+                codeTypeColor : '#091a28',
+                coverBackground : 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
+                toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)'
+            }
+        }
     }
   </script>
   <!--  -->
