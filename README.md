@@ -20,3 +20,7 @@
 </p>
 
 ## Links
+
+### 感谢
+[主题](https://github.com/boopathikumar018/docsify-darklight-theme)
+[文档](https://github.com/docsifyjs/docsify)

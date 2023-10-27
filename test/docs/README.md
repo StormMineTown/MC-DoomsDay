@@ -19,6 +19,13 @@ See the [Quick start](quickstart.md) guide for more details.
 - Compatible with IE11
 - Support server-side rendering ([example](https://github.com/docsifyjs/docsify-ssr-demo))
 
+
+```shell
+
+# 测试
+sudo passwd root
+
+```
 <!-- ## Examples
 
 Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use. -->
