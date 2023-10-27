@@ -1,6 +1,6 @@
 - 开始
 
-  - [介绍](deploy.md)
+  - [介绍](readme.md)
 
 
 - [Awesome docsify](awesome.md)
