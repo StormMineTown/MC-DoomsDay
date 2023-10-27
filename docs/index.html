@@ -1,49 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<!-- 头 -->
 <head>
+  <!-- 网站编码 -->
   <meta charset="UTF-8">
-  <title>docsify-darklight-theme</title>
-  <link rel="icon" href="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/favicon.png">
+  <!-- 网站标题 -->
+  <title>MC-DoomsDay</title>
+  <!-- 图标 -->
+  <link rel="icon" href="_media/favicon.ico" />
+  <!-- 网站页面元信息 -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="google-site-verification" content="ks-x63sFEQSGfvTu0s1qRu5u4Y120n1TROFn17CJNLo" />
   <meta name="keywords" content="doc,docs,documentation,gitbook,creator,generator,github,jekyll,github-pages">
   <meta name="description" content="For magical documentation generator with dark and light mode switch.">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <!-- 网站使用主题头 -->
   <link 
     rel="stylesheet"
     href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
     title="docsify-darklight-theme"
     type="text/css"
   />
+  <!-- 网站.css配置 -->
   <style>
     nav.app-nav li ul {
       min-width: 100px;
     }
   </style>
 </head>
-
+<!-- 身体 -->
 <body>
+  <!-- 加载描述 -->
   <div id="app">We are building somthing special for you ...</div>
+  <!--  -->
   <script>
     window.$docsify = {
+      // 页面加载失败
       search: 'auto', // default
       search : [
         '/',
       ],
-      repo: 'https://github.com/boopathikumar018/docsify-darklight-theme',
+      // GitHub项目链接
+      repo: 'https://github.com/StormMineTown/MC-DoomsDay/',
+      // 底部说明链接
       plugins: [
-        function(hook) {
-          var footer = [
-            '<footer style="text-align: center;margin-top: 50px;">',
-            '<span> Made with <svg xmlns="http://www.w3.org/2000/svg" width="24" height="15" viewBox="0 0 24 24" fill="red" stroke="red" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-heart"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg> by <a href="https://www.linkedin.com/in/boopathikumar/" target="_blank">@boopathikumar</a>  &copy; 2020 </span>',
-            '</footer>'
-          ].join('');
-
-          hook.afterEach(function(html) {
-            return html + footer;
-          });
-        }
+          DocsifyCarbon.create('CEBI6KQE', 'docsifyjsorg'),
+          function (hook, vm) {
+            hook.beforeEach(function (html) {
+              if (/githubusercontent\.com/.test(vm.route.file)) {
+                url = vm.route.file
+                  .replace('raw.githubusercontent.com', 'github.com')
+                  .replace(/\/master/, '/blob/master');
+              } else if (/jsdelivr\.net/.test(vm.route.file)) {
+                url = vm.route.file
+                  .replace('cdn.jsdelivr.net/gh', 'github.com')
+                  .replace('@master', '/blob/master');
+              } else {
+                url =
+                  'https://github.com/StormMineTown/MC-DoomsDay/tree/main/docs/' +
+                  vm.route.file;
+              }
+              var editHtml = '[:memo: 编辑文档](' + url + ')\n';
+              return (
+                editHtml +
+                html +
+                '\n\n----\n\n' +
+                '<a href="" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by MC-DoomsDay</a>'
+              );
+            })
+          },
       ],
       auto2top: true,
       executeScript: true,
@@ -65,12 +90,14 @@
       
     }
   </script>
+  <!--  -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-nginx.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- 网站使用主题尾 -->
   <script 
     src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
     type="text/javascript">
