@@ -46,11 +46,20 @@
       auto2top: true,
       executeScript: true,
       loadSidebar: true,
+      // 是否加载_navbar.md左侧导航栏
       loadNavbar: true,
       maxLevel: 4,
       subMaxLevel: 3,
       name: 'MC-DoomsDay',
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      // 设置路由别名。您可以自由管理路由规则。支持正则表达式。(顺序很重要！如果一个路由可以由多个别名匹配，则首先声明的别名优先。)
+      alias: {
+        '.*?/awesome':
+          'https://raw.githubusercontent.com/StormMineTown/MC-DoomsDay/main/README.md',
+        '.*?/changelog':
+          'https://raw.githubusercontent.com/StormMineTown/MC-DoomsDay/main/CHANGELOG.md',
+        '/.*/_navbar.md': '/_navbar.md',
+      },
       // 当前主题配置信息
       darklightTheme: {
             // 设置字体
@@ -143,6 +152,19 @@
         color: "var(--theme-color,#42b983)",
         height: "3px",
       },
+      // TAB制表符插件配置
+      tabs: {
+        // 确定在页面刷新/重新访问后是否还原选项卡选择。
+        persist: true,
+        // 确定选项卡选择是否在具有匹配标签的选项卡之间同步。
+        sync: true,
+        // 设置选项卡主题。值 will 指示不应应用任何主题，在创建自定义选项卡主题时应使用该主题。
+        theme: 'classic',
+        // 确定是否可以使用制表符注释来定义制表符集中的制表符。
+        tabComments: true,
+        // 确定是否可以使用标题 + 粗体 Markdown 定义选项卡集中的选项卡。
+        tabHeadings: true
+      },
       // 顶部横幅插件配置
       // topBanner: {
       //   options
@@ -180,7 +202,6 @@
   </script>
   <!-- 插件 -->
   <!-- 本体插件？ -->
-  <!-- Google Analytics（分析）插件 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <!-- 全文搜索插件 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
@@ -188,7 +209,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <!-- 字数统计插件 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
-  <!-- 团片缩放插件 -->
+  <!-- 图片缩放插件 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <!-- 漂亮的终端块 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-terminal-block@1.0.3"></script>
@@ -201,8 +222,11 @@
   <!-- 表情符号插件 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
   <!-- 代码块复制粘贴板插件 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
-  <!--  -->
+  <script src="https://unpkg.com/docsify-copy-code"></script>
+  <!-- TAB制表符插件 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- changelog显示位置 -->
+  <!-- <script src="https://cdn.jsdelivr.net/npm/docsify-changelog-plugin@latest/dist/index.js"></script> -->
   <!-- 不确定是什么插件 -->
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
