@@ -1,5 +1,5 @@
 
-> 一个神奇的文档站点生成器。
+> 嘿~！你~好！哈哈~！
 
-[GitHub](https://github.com/xingran521/docsify)
+[GitHub](https://github.com/)
 [开始](#docsify)
