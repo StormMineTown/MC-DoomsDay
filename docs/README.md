@@ -1,40 +1,28 @@
-## docsify
+<!-- 图标 -->
+<p align="center">
+  <a href="https://github.com/StormMineTown/MC-DoomsDay">
+    <img alt="MC-DoomsDay" src="https://s4.aconvert.com/convert/p3r68-cdx67/agfqx-zufvw.svg">
+  </a>
+</p>
 
-> 一个神奇的文档站点生成器。
+<!-- 短介 -->
+<p align="center">
+  嘿~！泥嚎~！这里是一个`Miecraft`的整合包介绍！
+</p>
 
-## What it is
-
-Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
-
-See the [Quick start](quickstart.md) guide for more details.
-
-## Features
-
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
-- Compatible with IE11
-- Support server-side rendering ([example](https://github.com/docsifyjs/docsify-ssr-demo))
+<!-- 图标 -->
+<p align="center">
+  <!-- Discord -->
+  <a href="https://discord.gg/scjqr7Bq">
+  <img alt="Static Badge" src="https://img.shields.io/badge/discord-MC--DoomsDay-brightgreen?logo=discord&label=%20&labelColor=grey&color=7389D8">
+  </a>
+  <!-- Minecraft -->
+  <a href="https://discord.gg/scjqr7Bq">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Minecraft-1.20.*-brightgreen?logo=Minecraft&label=%20&labelColor=grey">
+  </a>
+</p>
 
 
-```shell
-
-# 测试
-sudo passwd root
-
-```
-
-<!-- ## Examples
-
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use. -->
-
-<!-- ## Donate
-
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
-
-## Community
-
-Users and the development team are usually in the [Discord server](https://discord.gg/3NwKFyR). -->
+### 感谢
+[主题](https://github.com/boopathikumar018/docsify-darklight-theme)
+[文档](https://github.com/docsifyjs/docsify)
