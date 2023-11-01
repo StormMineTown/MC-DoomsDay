@@ -1,7 +1,7 @@
 <!-- 图标 -->
 <p align="center">
   <a href="https://github.com/StormMineTown/MC-DoomsDay">
-    <img alt="MC-DoomsDay" src="../docs/_media/icon.svg">
+    <img alt="MC-DoomsDay" src="https://s4.aconvert.com/convert/p3r68-cdx67/agfqx-zufvw.svg">
   </a>
 </p>
 
