@@ -313,6 +313,7 @@ warning|npm run build
 ├─.gitignore            # 文件：告诉git不要上传到 GitHub上的文件，可以是单个文件也可以是目录
 ├─CODE_OF_CONDUCT.md    # 文件：行为准则文件（说明可以干什么什么不可以干）
 ├─CONTRIBUTING.md       # 文件：贡献准则文件（说明贡献要求以及规范等）
+├─CHANGELOG.md          # 文件：更新日志文件（说明每次更新了什么内容以及修复了什么BUG等）
 ├─LICENSE               # 文件：授权协议
 ├─SECURITY.md           # 文件：安全策略文件（说明安全漏洞等）
 └─README.md             # 文件：自述文件，整个项目的简介、使用方法等
