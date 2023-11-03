@@ -1,213 +1,231 @@
 # MODS
+
 ## 前置
-    - (前置) [AutoRegLi]("https://www.mcmod.cn/class/698.html")
-        - 前置： [夸克 (Quark)]("https://www.mcmod.cn/class/527.html")
-    - (前置) [Forgelin]("https://www.mcmod.cn/class/799.html")
-        - 前置： [未来的MC (Future MC)]("https://www.mcmod.cn/class/1608.html")
-    - (动态环绕前置) [OreLi]("https://www.mcmod.cn/class/1476.html")
-    - (前置) [coroutil]("https://www.mcmod.cn/class/706.html")
-        - 前置： ) [[ZA] 僵尸意识 (Zombie]("https://www.mcmod.cn/class/298.html")
-    - (怪物肢解前置) [iChunUtil]("https://www.mcmod.cn/class/624.html")
-        - 前置： [怪物截肢 (Mob Amputation)]("https://www.mcmod.cn/class/3101.html")
-    - (永恒能力前置) [Cyclops Core]("https://www.mcmod.cn/class/810.html")
-        - 前置： [永恒能力-药水核心]("https://www.mcmod.cn/class/1702.html")
-    - (玉前置) [Here's What You're Looking At]("https://www.mcmod.cn/class/668.html")
-        - 前置： [玉 🔍 (Jade 🔍)]("https://www.mcmod.cn/class/3482.html")
-    - (锤子核心) [Hammer Core/Hammer Lib]("https://www.mcmod.cn/class/756.html")
-        - 前置： [技能进阶 (Improvable Skills 3)]("https://www.mcmod.cn/class/1867.html")
-    - (开放式模组库) [OpenModsLib]("https://www.mcmod.cn/class/617.html")
-    - (FTB Library) [FTB Library]("https://www.mcmod.cn/class/718.html")
-        - 前置：FTB全部
-    -  [TamModized]("https://www.mcmod.cn/class/954.html")
-        - 前置：
-            -  [[VC] 虚空工艺 (VoidCraft)]("https://www.mcmod.cn/class/1355.html")
-    - (饰品栏) [Baubles]("https://www.mcmod.cn/class/473.html")
-        - 前置：
-            - (污秽之地) [Defiled Lands]("https://www.mcmod.cn/class/2133.html")
-            - (帷幕彼端) [Beyond The Veil]("https://www.mcmod.cn/class/2398.html")
-    - (末影核心) [EnderCore]("https://www.mcmod.cn/class/598.html")
-        - 前置：
-            - ender
+
+- (前置) [AutoRegLi]("https://www.mcmod.cn/class/698.html")
+    - 前置： [夸克 (Quark)]("https://www.mcmod.cn/class/527.html")
+- (前置) [Forgelin]("https://www.mcmod.cn/class/799.html")
+    - 前置： [未来的MC (Future MC)]("https://www.mcmod.cn/class/1608.html")
+- (动态环绕前置) [OreLi]("https://www.mcmod.cn/class/1476.html")
+- (前置) [coroutil]("https://www.mcmod.cn/class/706.html")
+    - 前置： ) [[ZA] 僵尸意识 (Zombie]("https://www.mcmod.cn/class/298.html")
+- (怪物肢解前置) [iChunUtil]("https://www.mcmod.cn/class/624.html")
+    - 前置： [怪物截肢 (Mob Amputation)]("https://www.mcmod.cn/class/3101.html")
+- (永恒能力前置) [Cyclops Core]("https://www.mcmod.cn/class/810.html")
+    - 前置： [永恒能力-药水核心]("https://www.mcmod.cn/class/1702.html")
+- (玉前置) [Here's What You're Looking At]("https://www.mcmod.cn/class/668.html")
+    - 前置： [玉 🔍 (Jade 🔍)]("https://www.mcmod.cn/class/3482.html")
+- (锤子核心) [Hammer Core/Hammer Lib]("https://www.mcmod.cn/class/756.html")
+    - 前置： [技能进阶 (Improvable Skills 3)]("https://www.mcmod.cn/class/1867.html")
+- (开放式模组库) [OpenModsLib]("https://www.mcmod.cn/class/617.html")
+- (FTB Library) [FTB Library]("https://www.mcmod.cn/class/718.html")
+    - 前置：FTB全部
+-  [TamModized]("https://www.mcmod.cn/class/954.html")
+    - 前置：
+        -  [[VC] 虚空工艺 (VoidCraft)]("https://www.mcmod.cn/class/1355.html")
+- (饰品栏) [Baubles]("https://www.mcmod.cn/class/473.html")
+    - 前置：
+        - (污秽之地) [Defiled Lands]("https://www.mcmod.cn/class/2133.html")
+        - (帷幕彼端) [Beyond The Veil]("https://www.mcmod.cn/class/2398.html")
+- (末影核心) [EnderCore]("https://www.mcmod.cn/class/598.html")
+    - 前置：
+        - ender
+
 ## 优化
-    - (FPS减速器) [FPS Reducer]("https://www.mcmod.cn/class/1815.html")
-    - (加载模组导出) [Loaded Mods Exporter]("https://www.mcmod.cn/class/2995.html")
-    - (键位冲突显示) [Controlling]("https://www.mcmod.cn/class/1191.html")
-    - (泡沫修复) [FoamFix]("https://www.mcmod.cn/class/978.html")
-    - (性能优化) [Performant]("https://www.mcmod.cn/class/2385.html")
+
+- (FPS减速器) [FPS Reducer]("https://www.mcmod.cn/class/1815.html")
+- (加载模组导出) [Loaded Mods Exporter]("https://www.mcmod.cn/class/2995.html")
+- (键位冲突显示) [Controlling]("https://www.mcmod.cn/class/1191.html")
+- (泡沫修复) [FoamFix]("https://www.mcmod.cn/class/978.html")
+- (性能优化) [Performant]("https://www.mcmod.cn/class/2385.html")
+
 ## 模组
-    - Tissou's Zombie Pack(僵尸(本体))
-    - (血月) [Bloodmoon]("https://www.mcmod.cn/class/1216.html")
-        - 配置文件：
-            - bloodmoon.cfg
-            ```json
-                - schedule {
-                - #  在夜晚开始时出现血月的几率（0=从不；1=每晚；0.05=所有夜晚的 5%）
-                - D:Chance=0.05
-                - # 满月时是否应该有血月
-                - B:Fullmoon=false
-                - # 每第 n 晚会有一个血月（0 禁用此功能，1 将每天晚上，2 每两个晚上）
-                - I:NthNight=30
-                - }
-                - # 在血月中，敌人可以在玩家旁边多近的地方生成？ （香草=24）
-                - I:SpawnRange=26
-            ```
-    - (JEI) [jei]("https://www.mcmod.cn/class/459.html")
-    - (禁用原版生物) [BadMobs]("https://www.mcmod.cn/class/1904.html")
-        - badmods.cfg
+
+- Tissou's Zombie Pack(僵尸(本体))
+- (血月) [Bloodmoon]("https://www.mcmod.cn/class/1216.html")
+    - 配置文件：
+        - bloodmoon.cfg
+
         ```json
-            - # 所有被禁止的生物的列表。 如果将生物实体名称添加到此列表中，它将不允许在任何世界中生成。 要获取实体的名称，请使用数据检查器与其进行交互，并且将给出其名称。 [默认值：[example1]、[example2]、[example3]]
-            - S:bannedMobs <
-            - minecraft:skeleton
-            - minecraft:creeper
-            - minecraft:spider
-                - minecraft:enderman
-                - minecraft:witch
-                - entity.bandit1.name
-                - entity.bandit2.name
-                - entity.bandit3.name
-                - entity.bandit4.name
+            - schedule {
+            - #  在夜晚开始时出现血月的几率（0=从不；1=每晚；0.05=所有夜晚的 5%）
+            - D:Chance=0.05
+            - # 满月时是否应该有血月
+            - B:Fullmoon=false
+            - # 每第 n 晚会有一个血月（0 禁用此功能，1 将每天晚上，2 每两个晚上）
+            - I:NthNight=30
+            - }
+            - # 在血月中，敌人可以在玩家旁边多近的地方生成？ （香草=24）
+            - I:SpawnRange=26
+        ```
+
+- (JEI) [jei]("https://www.mcmod.cn/class/459.html")
+- (禁用原版生物) [BadMobs]("https://www.mcmod.cn/class/1904.html")
+    - badmods.cfg
+
+    ```json
+        - # 所有被禁止的生物的列表。 如果将生物实体名称添加到此列表中，它将不允许在任何世界中生成。 要获取实体的名称，请使用数据检查器与其进行交互，并且将给出其名称。 [默认值：[example1]、[example2]、[example3]]
+        - S:bannedMobs <
+        - minecraft:skeleton
+        - minecraft:creeper
+        - minecraft:spider
+            - minecraft:enderman
+            - minecraft:witch
+            - entity.bandit1.name
+            - entity.bandit2.name
+            - entity.bandit3.name
+            - entity.bandit4.name
+        - >
+    ```
+
+- (日间僵尸) [DayZombiez]("https://www.curseforge.com/minecraft/mc-mods/day-zombies")
+- (动态环境) [DynamicSurroundings]("https://www.mcmod.cn/class/1083.html")
+- (未来的MC) [future-m]("https://www.mcmod.cn/class/1608.html")
+- (自动汉化更新) [i18nupdatemod]("https://www.mcmod.cn/class/1188.html")
+- (旅行地图) [journeymap]("https://www.mcmod.cn/class/198.html")
+- (局域网联机) [lanserverproperties]("https://www.mcmod.cn/class/2754.html")
+- (失落的城市) [lostcities]("https://www.mcmod.cn/class/1295.html")
+- (怪物肢解) [MobDismemberment]("https://www.mcmod.cn/class/1975.html")
+    - 配置文件：
+        - mobdismemberment.cfg
+
+        ```json
+            - clientonly {
+            - # gibbing应该有血吗？ [范围：0~1，默认：1]
+            - I:blood=0
+            - # 每个gib产生的血液颗粒数量[范围：1~1000，默认值：100]
+            - I:bloodCount=100
+            - # gibs 落地的时间长度 [范围：0 ~ 2147483647，默认值：100]
+            - I:gibGroundTime=100
+            - # gibs 是否会主动将小怪推到它的路径上？ [范围：0~1，默认：1]
+            - I:gibPushing=1
+            - # gibs 可以存活的时间长度（完全）[范围：0 ~ 2147483647，默认值：1000]
+            - I:gibTime=800
+            - # gibs 可以存活的时间长度（完全）[范围：0 ~ 2147483647，默认值：1000]
+            - I:greenBlood=0
+            - }
+        ```
+
+- (夸克) [Quark-r]("https://www.mcmod.cn/class/527.html")
+- (斯巴达之盾) [SpartanShields]("https://www.mcmod.cn/class/2790.html")
+- (斯巴达的武器) [SpartanWeaponry]("https://www.mcmod.cn/class/2297.html")
+- (逃逸:寄生虫) [SRParasites]("https://www.mcmod.cn/class/3625.html")
+    - ： [配置文件]("https://www.mcmod.cn/post/2022.html")
+        -  [演化阶段]("http:")
+        -  [工具]("http:")
+        - SRParasites.cfg
+
+        ```json
+            - # 所有寄生虫生物的全局护甲倍数。 [可配置范围: 0.01 ~ 100.0, 默认: 1.0]
+            - S:"Global Armor Multiplier"=0.8
+            - # 所有寄生虫生物的全局攻击力倍数。 [可配置范围: 0.01 ~ 100.0, 默认: 1.0]
+            - S:"Global Damage Multiplier"=0.8
+            - # 设置特定维度的具体阶段和初始分数。例如。 "1;8;10" 其中：
+            - # "1" 是维度,
+            - # “8”是进化阶段，
+            - # "10" 是寄生虫拥有的初始点数，如果进化阶段设置为为 -1，这些点数将为负数
+            - # 如果进化阶段是-2，寄生虫将不会生成并且不能获得积分 [默认: [-1;-1;50], [1;-1;100]]
+            - S:"Evolution Phases Dimension Starting Phase List" <
+            - -1;-1;50
+            - 1;-1;100
+            - 0;-1;1000
+            - >
+            - # 寄生虫不能在这些维度中生成（如果启用了进化阶段，此列表将被忽略，它有自己的选项）
+            - I:"Mobs Blacklisted Dimensions" <
+            - -1
+            - 1
+            - >
+            - # 会避开寄生虫的生物。例如：“minecraft:zombie”或整个模组的“minecraft”。 [默认: [minecraft:villager]]
+            - # 译者注:就像村民逃离僵尸和苦力怕逃离豹猫那样
+            - S:"Mobs with new avoid task" <
+            - minecraft:villager
+            - >
+            - # 以寄生虫为目标的生物。例如：“minecraft:zombie”或整个模组的“minecraft”。 [默认: [minecraft:villager_golem]]
+            - S:"Mobs with new target task" <
+            - minecraft:villager_golem
+            - mw:bandit1
+            - techguns:dictatordave
+            - techguns:stormtrooper
+            - techguns:outcast
+            - techguns:zombiepigmansoldier
+            - techguns:cyberdemon
+            - techguns:commando
+            - techguns:armysoldier
+            - >
+            - # 如果“Mob Attacking”设置为true，此列表中的怪物将不受寄生虫攻击, 例如: "minecraft:zombie"代表单个生物 或 "minecraft" 代表整个模组 [默认: ]
+            - S:"Mob Attacking blacklist" <
             - >
         ```
-    - (日间僵尸) [DayZombiez]("https://www.curseforge.com/minecraft/mc-mods/day-zombies")
-    - (动态环境) [DynamicSurroundings]("https://www.mcmod.cn/class/1083.html")
-    - (未来的MC) [future-m]("https://www.mcmod.cn/class/1608.html")
-    - (自动汉化更新) [i18nupdatemod]("https://www.mcmod.cn/class/1188.html")
-    - (旅行地图) [journeymap]("https://www.mcmod.cn/class/198.html")
-    - (局域网联机) [lanserverproperties]("https://www.mcmod.cn/class/2754.html")
-    - (失落的城市) [lostcities]("https://www.mcmod.cn/class/1295.html")
-    - (怪物肢解) [MobDismemberment]("https://www.mcmod.cn/class/1975.html")
-        - 配置文件：
-            - mobdismemberment.cfg
-            ```json
-                - clientonly {
-                - # gibbing应该有血吗？ [范围：0~1，默认：1]
-                - I:blood=0
-                - # 每个gib产生的血液颗粒数量[范围：1~1000，默认值：100]
-                - I:bloodCount=100
-                - # gibs 落地的时间长度 [范围：0 ~ 2147483647，默认值：100]
-                - I:gibGroundTime=100
-                - # gibs 是否会主动将小怪推到它的路径上？ [范围：0~1，默认：1]
-                - I:gibPushing=1
-                - # gibs 可以存活的时间长度（完全）[范围：0 ~ 2147483647，默认值：1000]
-                - I:gibTime=800
-                - # gibs 可以存活的时间长度（完全）[范围：0 ~ 2147483647，默认值：1000]
-                - I:greenBlood=0
-                - }
-            ```
-    - (夸克) [Quark-r]("https://www.mcmod.cn/class/527.html")
-    - (斯巴达之盾) [SpartanShields]("https://www.mcmod.cn/class/2790.html")
-    - (斯巴达的武器) [SpartanWeaponry]("https://www.mcmod.cn/class/2297.html")
-    - (逃逸:寄生虫) [SRParasites]("https://www.mcmod.cn/class/3625.html")
-        - ： [配置文件]("https://www.mcmod.cn/post/2022.html")
-            -  [演化阶段]("http:")
-            -  [工具]("http:")
-            - SRParasites.cfg
-            ```json
-                - # 所有寄生虫生物的全局护甲倍数。 [可配置范围: 0.01 ~ 100.0, 默认: 1.0]
-                - S:"Global Armor Multiplier"=0.8
-                - # 所有寄生虫生物的全局攻击力倍数。 [可配置范围: 0.01 ~ 100.0, 默认: 1.0]
-                - S:"Global Damage Multiplier"=0.8
-                - # 设置特定维度的具体阶段和初始分数。例如。 "1;8;10" 其中：
-                - # "1" 是维度,
-                - # “8”是进化阶段，
-                - # "10" 是寄生虫拥有的初始点数，如果进化阶段设置为为 -1，这些点数将为负数
-                - # 如果进化阶段是-2，寄生虫将不会生成并且不能获得积分 [默认: [-1;-1;50], [1;-1;100]]
-                - S:"Evolution Phases Dimension Starting Phase List" <
-                - -1;-1;50
-                - 1;-1;100
-                - 0;-1;1000
-                - >
-                - # 寄生虫不能在这些维度中生成（如果启用了进化阶段，此列表将被忽略，它有自己的选项）
-                - I:"Mobs Blacklisted Dimensions" <
-                - -1
-                - 1
-                - >
-                - # 会避开寄生虫的生物。例如：“minecraft:zombie”或整个模组的“minecraft”。 [默认: [minecraft:villager]]
-                - # 译者注:就像村民逃离僵尸和苦力怕逃离豹猫那样
-                - S:"Mobs with new avoid task" <
-                - minecraft:villager
-                - >
-                - # 以寄生虫为目标的生物。例如：“minecraft:zombie”或整个模组的“minecraft”。 [默认: [minecraft:villager_golem]]
-                - S:"Mobs with new target task" <
-                - minecraft:villager_golem
-                - mw:bandit1
-                - techguns:dictatordave
-                - techguns:stormtrooper
-                - techguns:outcast
-                - techguns:zombiepigmansoldier
-                - techguns:cyberdemon
-                - techguns:commando
-                - techguns:armysoldier
-                - >
-                - # 如果“Mob Attacking”设置为true，此列表中的怪物将不受寄生虫攻击, 例如: "minecraft:zombie"代表单个生物 或 "minecraft" 代表整个模组 [默认: ]
-                - S:"Mob Attacking blacklist" <
-                - >
-            ```
-    - (僵尸意识) [zombieawareness]("https://www.mcmod.cn/class/298.html")
-    - (漂亮的块) [NiftyBlocks]("https://www.curseforge.com/minecraft/mc-mods/niftyblocks")
-    - (意志坚定) [ToughAsNails]("https://www.mcmod.cn/class/531.html")
-    - (时装盔甲重置版) [Cosmetic Armor Reworked]("https://www.mcmod.cn/class/2497.html")
-    - (通用拼音搜索) [Just Enough Characters]("https://www.mcmod.cn/class/840.html")
-    - (快速腐烂) [QuickLeafDecay]("https://www.mcmod.cn/class/1173.html")
-    - (玉) [Jade]("https://www.mcmod.cn/class/3482.html")
-    - (连锁采矿) [Vein Miner]("https://www.mcmod.cn/class/589.html")
-    - (更多熔炉) [Iron Furnaces]("https://www.mcmod.cn/class/3027.html")
-    - (更多箱子) [Iron Chests]("https://www.mcmod.cn/class/20.html")
-    - (区块加载动画) [Chunk Animator]("https://www.mcmod.cn/class/1539.html")
-    - (永恒能力) [EverlastingAbilities]("https://www.mcmod.cn/class/1255.html")
-        - 配置文件：
-            - everlastingabilities.cfg
-            ```json
-                - ability {
-                - # 允许飞行(默认=true)
-                - B:flight=false
-                - }
-                - general {
-                - # 能力需求经验乘数(默认=10)
-                - I:general.abilityXpMultiplier=20
-                - # 死亡时失去能力的数量(默认=1)
-                - I:general.dropAbilitiesOnPlayerDeath=0
-                - # 最大能力数(默认=1 -1为无上限)
-                - I:general.maxPlayerAbilities=5
-                - # 怪物携带能力几率(默认=50 算法为1/x)
-                - I:general.mobAbilityChance=100
-                - }
-            ```
-    - (搬运) [Carry On]("https://www.mcmod.cn/class/1081.html")
-    - (多人开采) [Multi Mine]("https://www.mcmod.cn/class/1779.html")
-    - (更好的战斗：重生) [Better Combat Rebirth]("https://www.mcmod.cn/class/4297.html")
-    - (技能进阶) [Improvable Skills 3]("https://www.mcmod.cn/class/1867.html")
-    - (科技枪) [Techguns]("https://www.mcmod.cn/class/537.html")
-    - (超能力) [AcademyCraft]("https://www.mcmod.cn/class/402.html")
-    - (实用工具) [FTB Utilities]("https://www.mcmod.cn/class/839.html")
-    - (增强装备) [Enhanced Armaments]("https://www.mcmod.cn/class/2099.html")
-    - (猫) [InventoryNeko]("https://www.mcmod.cn/class/3274.html")
-    - (武德) [wude]("https://www.mcmod.cn/class/3210.html")
-    - (测试假人) [MmmMmmMmmMmm]("https://www.mcmod.cn/class/1139.html")
-    - (开放式方块) [OpenBlocks]("https://www.mcmod.cn/class/222.html")
-    - (蠕动意面重置版) [CreepyPastaCraft Reborn]("https://www.mcmod.cn/class/3047.html")
-    - (割肉小刀/同类相食) [Cannibalism]("https://www.mcmod.cn/class/1043.html")
-    - (怪物截肢) [Mob Amputation]("https://www.mcmod.cn/class/3101.html")
-    - (致命怪物) [Deadly Monsters]("https://www.mcmod.cn/class/1504.html")
-    - (懒人厨房) [Cooking for Blockheads]("https://www.mcmod.cn/class/468.html")
-    - (潘马斯农场) [Pam's HarvestCraft]("https://www.mcmod.cn/class/218.html")
-    - (无中生有: 创世) [Ex Nihilo: Creatio]("https://www.mcmod.cn/class/955.html")
-    - 真实的黑夜) [Hardcore Darkness(]("https://www.mcmod.cn/class/1667.html")
-    -  [Eyes in the Darkness]("https://www.mcmod.cn/class/2334.html")
-    - (更多实用设备2) [Extra Utilities 2]("https://www.mcmod.cn/class/616.html")
-    - (Fish的不死崛起) [Fish's Undead Rising]("https://www.mcmod.cn/class/2345.html")
-    - (悲惨世界3) [TragicMC 3]("https://www.mcmod.cn/class/2558.html")
-    - (深渊国度) [AbyssalCraft]("https://www.mcmod.cn/class/508.html")
-    - (次元门) [Dimensional Doors]("https://www.mcmod.cn/class/166.html")
-    - (污秽之地) [Defiled Lands]("https://www.mcmod.cn/class/2133.html")
-    - (帷幕彼端) [Beyond The Veil]("https://www.mcmod.cn/class/2398.html")
-    - (虚空工艺) [VoidCraft]("https://www.mcmod.cn/class/1355.html")
-    - (末影接口) [Ender IO]("https://www.mcmod.cn/class/181.html")
-    - (电容信息显示) [Loot Capacitor Tooltips]("https://www.mcmod.cn/class/1792.html")
-    - (SCP基金会：封锁) [SCP: Lockdown]("https://www.mcmod.cn/class/1381.html")
-    - (scp重型收容区扩展) [SCP: Lockdown Heavy Containment Zone Expansion]("https://www.mcmod.cn/class/1889.html")
-    - (SCPCraft - 下降) [SCPCraft - Decline]("https://www.mcmod.cn/class/2017.html")
+
+- (僵尸意识) [zombieawareness]("https://www.mcmod.cn/class/298.html")
+- (漂亮的块) [NiftyBlocks]("https://www.curseforge.com/minecraft/mc-mods/niftyblocks")
+- (意志坚定) [ToughAsNails]("https://www.mcmod.cn/class/531.html")
+- (时装盔甲重置版) [Cosmetic Armor Reworked]("https://www.mcmod.cn/class/2497.html")
+- (通用拼音搜索) [Just Enough Characters]("https://www.mcmod.cn/class/840.html")
+- (快速腐烂) [QuickLeafDecay]("https://www.mcmod.cn/class/1173.html")
+- (玉) [Jade]("https://www.mcmod.cn/class/3482.html")
+- (连锁采矿) [Vein Miner]("https://www.mcmod.cn/class/589.html")
+- (更多熔炉) [Iron Furnaces]("https://www.mcmod.cn/class/3027.html")
+- (更多箱子) [Iron Chests]("https://www.mcmod.cn/class/20.html")
+- (区块加载动画) [Chunk Animator]("https://www.mcmod.cn/class/1539.html")
+- (永恒能力) [EverlastingAbilities]("https://www.mcmod.cn/class/1255.html")
+    - 配置文件：
+        - everlastingabilities.cfg
+        
+        ```json
+            - ability {
+            - # 允许飞行(默认=true)
+            - B:flight=false
+            - }
+            - general {
+            - # 能力需求经验乘数(默认=10)
+            - I:general.abilityXpMultiplier=20
+            - # 死亡时失去能力的数量(默认=1)
+            - I:general.dropAbilitiesOnPlayerDeath=0
+            - # 最大能力数(默认=1 -1为无上限)
+            - I:general.maxPlayerAbilities=5
+            - # 怪物携带能力几率(默认=50 算法为1/x)
+            - I:general.mobAbilityChance=100
+            - }
+        ```
+        
+- (搬运) [Carry On]("https://www.mcmod.cn/class/1081.html")
+- (多人开采) [Multi Mine]("https://www.mcmod.cn/class/1779.html")
+- (更好的战斗：重生) [Better Combat Rebirth]("https://www.mcmod.cn/class/4297.html")
+- (技能进阶) [Improvable Skills 3]("https://www.mcmod.cn/class/1867.html")
+- (科技枪) [Techguns]("https://www.mcmod.cn/class/537.html")
+- (超能力) [AcademyCraft]("https://www.mcmod.cn/class/402.html")
+- (实用工具) [FTB Utilities]("https://www.mcmod.cn/class/839.html")
+- (增强装备) [Enhanced Armaments]("https://www.mcmod.cn/class/2099.html")
+- (猫) [InventoryNeko]("https://www.mcmod.cn/class/3274.html")
+- (武德) [wude]("https://www.mcmod.cn/class/3210.html")
+- (测试假人) [MmmMmmMmmMmm]("https://www.mcmod.cn/class/1139.html")
+- (开放式方块) [OpenBlocks]("https://www.mcmod.cn/class/222.html")
+- (蠕动意面重置版) [CreepyPastaCraft Reborn]("https://www.mcmod.cn/class/3047.html")
+- (割肉小刀/同类相食) [Cannibalism]("https://www.mcmod.cn/class/1043.html")
+- (怪物截肢) [Mob Amputation]("https://www.mcmod.cn/class/3101.html")
+- (致命怪物) [Deadly Monsters]("https://www.mcmod.cn/class/1504.html")
+- (懒人厨房) [Cooking for Blockheads]("https://www.mcmod.cn/class/468.html")
+- (潘马斯农场) [Pam's HarvestCraft]("https://www.mcmod.cn/class/218.html")
+- (无中生有: 创世) [Ex Nihilo: Creatio]("https://www.mcmod.cn/class/955.html")
+- 真实的黑夜) [Hardcore Darkness(]("https://www.mcmod.cn/class/1667.html")
+-  [Eyes in the Darkness]("https://www.mcmod.cn/class/2334.html")
+- (更多实用设备2) [Extra Utilities 2]("https://www.mcmod.cn/class/616.html")
+- (Fish的不死崛起) [Fish's Undead Rising]("https://www.mcmod.cn/class/2345.html")
+- (悲惨世界3) [TragicMC 3]("https://www.mcmod.cn/class/2558.html")
+- (深渊国度) [AbyssalCraft]("https://www.mcmod.cn/class/508.html")
+- (次元门) [Dimensional Doors]("https://www.mcmod.cn/class/166.html")
+- (污秽之地) [Defiled Lands]("https://www.mcmod.cn/class/2133.html")
+- (帷幕彼端) [Beyond The Veil]("https://www.mcmod.cn/class/2398.html")
+- (虚空工艺) [VoidCraft]("https://www.mcmod.cn/class/1355.html")
+- (末影接口) [Ender IO]("https://www.mcmod.cn/class/181.html")
+- (电容信息显示) [Loot Capacitor Tooltips]("https://www.mcmod.cn/class/1792.html")
+- (SCP基金会：封锁) [SCP: Lockdown]("https://www.mcmod.cn/class/1381.html")
+- (scp重型收容区扩展) [SCP: Lockdown Heavy Containment Zone Expansion]("https://www.mcmod.cn/class/1889.html")
+- (SCPCraft - 下降) [SCPCraft - Decline]("https://www.mcmod.cn/class/2017.html")
+
 ## 已删除or不添加
+
     - Flan's Mod@Flan的枪械
     - mobsunscreen@ [防晒霜]("https://www.mcmod.cn/class/2571.html")
     - furniture@MrCrayfish 的家具
@@ -235,7 +253,9 @@
     - <font color=#75C940>(细菌病毒3)</font> [Bionisation 3]("https://www.mcmod.cn/class/1726.html")
     - <font color=#75C940>(流血)</font> [Lightweight Blood Mechanics]("https://www.mcmod.cn/class/3420.html")
     - <font color=#75C940>午夜)</font> [The Midnight(]("https://www.mcmod.cn/class/2148.html")
+
 ## 待定
+
     - <font color=#75C940>(敌对世界-入侵)</font> [Hostile Worlds - Invasions]("https://www.mcmod.cn/class/1713.html")
     - <font color=#75C940>(墓碑坟墓 - 拓展)</font> [Gravestone mod - Extended]("https://www.mcmod.cn/class/4330.html")
     -  [Miskatonic Mysteries]("https://www.mcmod.cn/class/4608.html")
