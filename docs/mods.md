@@ -39,6 +39,7 @@
     - (血月) [Bloodmoon]("https://www.mcmod.cn/class/1216.html")
         - 配置文件：
             - bloodmoon.cfg
+            ```json
                 - schedule {
                 - #  在夜晚开始时出现血月的几率（0=从不；1=每晚；0.05=所有夜晚的 5%）
                 - D:Chance=0.05
@@ -49,9 +50,11 @@
                 - }
                 - # 在血月中，敌人可以在玩家旁边多近的地方生成？ （香草=24）
                 - I:SpawnRange=26
+            ```
     - (JEI) [jei]("https://www.mcmod.cn/class/459.html")
     - (禁用原版生物) [BadMobs]("https://www.mcmod.cn/class/1904.html")
         - badmods.cfg
+        ```json
             - # 所有被禁止的生物的列表。 如果将生物实体名称添加到此列表中，它将不允许在任何世界中生成。 要获取实体的名称，请使用数据检查器与其进行交互，并且将给出其名称。 [默认值：[example1]、[example2]、[example3]]
             - S:bannedMobs <
             - minecraft:skeleton
@@ -64,6 +67,7 @@
                 - entity.bandit3.name
                 - entity.bandit4.name
             - >
+        ```
     - (日间僵尸) [DayZombiez]("https://www.curseforge.com/minecraft/mc-mods/day-zombies")
     - (动态环境) [DynamicSurroundings]("https://www.mcmod.cn/class/1083.html")
     - (未来的MC) [future-m]("https://www.mcmod.cn/class/1608.html")
@@ -74,6 +78,7 @@
     - (怪物肢解) [MobDismemberment]("https://www.mcmod.cn/class/1975.html")
         - 配置文件：
             - mobdismemberment.cfg
+            ```json
                 - clientonly {
                 - # gibbing应该有血吗？ [范围：0~1，默认：1]
                 - I:blood=0
@@ -88,6 +93,7 @@
                 - # gibs 可以存活的时间长度（完全）[范围：0 ~ 2147483647，默认值：1000]
                 - I:greenBlood=0
                 - }
+            ```
     - (夸克) [Quark-r]("https://www.mcmod.cn/class/527.html")
     - (斯巴达之盾) [SpartanShields]("https://www.mcmod.cn/class/2790.html")
     - (斯巴达的武器) [SpartanWeaponry]("https://www.mcmod.cn/class/2297.html")
@@ -96,6 +102,7 @@
             -  [演化阶段]("http:")
             -  [工具]("http:")
             - SRParasites.cfg
+            ```json
                 - # 所有寄生虫生物的全局护甲倍数。 [可配置范围: 0.01 ~ 100.0, 默认: 1.0]
                 - S:"Global Armor Multiplier"=0.8
                 - # 所有寄生虫生物的全局攻击力倍数。 [可配置范围: 0.01 ~ 100.0, 默认: 1.0]
@@ -135,6 +142,7 @@
                 - # 如果“Mob Attacking”设置为true，此列表中的怪物将不受寄生虫攻击, 例如: "minecraft:zombie"代表单个生物 或 "minecraft" 代表整个模组 [默认: ]
                 - S:"Mob Attacking blacklist" <
                 - >
+            ```
     - (僵尸意识) [zombieawareness]("https://www.mcmod.cn/class/298.html")
     - (漂亮的块) [NiftyBlocks]("https://www.curseforge.com/minecraft/mc-mods/niftyblocks")
     - (意志坚定) [ToughAsNails]("https://www.mcmod.cn/class/531.html")
@@ -149,6 +157,7 @@
     - (永恒能力) [EverlastingAbilities]("https://www.mcmod.cn/class/1255.html")
         - 配置文件：
             - everlastingabilities.cfg
+            ```json
                 - ability {
                 - # 允许飞行(默认=true)
                 - B:flight=false
@@ -163,6 +172,7 @@
                 - # 怪物携带能力几率(默认=50 算法为1/x)
                 - I:general.mobAbilityChance=100
                 - }
+            ```
     - (搬运) [Carry On]("https://www.mcmod.cn/class/1081.html")
     - (多人开采) [Multi Mine]("https://www.mcmod.cn/class/1779.html")
     - (更好的战斗：重生) [Better Combat Rebirth]("https://www.mcmod.cn/class/4297.html")
