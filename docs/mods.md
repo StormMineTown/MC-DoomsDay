@@ -226,56 +226,56 @@
 
 ## 已删除or不添加
 
-    - Flan's Mod@Flan的枪械
-    - mobsunscreen@ [防晒霜]("https://www.mcmod.cn/class/2571.html")
-    - furniture@MrCrayfish 的家具
-    - BetterFoliage@更好的树叶
-    - BiomesOPlenty@超多生物群系
-    - MixinBootstrap@树叶和雪前置
-    - snowvariants@更好的雪
-    - ToolBelt@工具皮带
-    - switchbow@末影弓
-    - (稀有精英怪) [Infernal Mobs]("https://www.mcmod.cn/class/380.html")
-    - Better Builders Wands@更好的建筑权杖
-    - mcw doors@Macaw的门
-    - mcw-fences@Macaw 的围栏与墙
-    - mcw-furniture@Macaw的家具
-    - mcw-windows@Macaw的窗户
-    - (极简血量显示) [Neat]("https://www.mcmod.cn/class/619.html")
-    - (维克的现代战争) [Modern Warfare-Content Pack]("https://www.mcmod.cn/class/595.html")
-    - <font color=#75C940>(AI减速器)</font> [AI Reducer]("https://www.mcmod.cn/class/4730.html")
-    - <font color=#75C940>(滑翔翼)</font> [Open Glider]("https://www.mcmod.cn/class/797.html")
-    - <font color=#75C940>(阵法)</font> [Magic Circle]("https://www.mcmod.cn/class/2817.html")
-    - <font color=#75C940>(降世神通：突破冰山)</font> [Avatar Mod 2: Out of the Iceberg]("https://www.mcmod.cn/class/3405.html")
-    - <font color=#75C940>(邪恶工艺)</font> [EvilCraft]("https://www.mcmod.cn/class/352.html")
-    - <font color=#75C940>(幸存者)</font> [RealSurvivor]("https://www.mcmod.cn/class/2963.html")
-    - <font color=#75C940>(狼铠)</font> [Wolf Armor and Storage]("https://www.mcmod.cn/class/607.html")
-    - <font color=#75C940>(细菌病毒3)</font> [Bionisation 3]("https://www.mcmod.cn/class/1726.html")
-    - <font color=#75C940>(流血)</font> [Lightweight Blood Mechanics]("https://www.mcmod.cn/class/3420.html")
-    - <font color=#75C940>午夜)</font> [The Midnight(]("https://www.mcmod.cn/class/2148.html")
+- Flan's Mod@Flan的枪械
+- mobsunscreen@ [防晒霜]("https://www.mcmod.cn/class/2571.html")
+- furniture@MrCrayfish 的家具
+- BetterFoliage@更好的树叶
+- BiomesOPlenty@超多生物群系
+- MixinBootstrap@树叶和雪前置
+- snowvariants@更好的雪
+- ToolBelt@工具皮带
+- switchbow@末影弓
+- (稀有精英怪) [Infernal Mobs]("https://www.mcmod.cn/class/380.html")
+- Better Builders Wands@更好的建筑权杖
+- mcw doors@Macaw的门
+- mcw-fences@Macaw 的围栏与墙
+- mcw-furniture@Macaw的家具
+- mcw-windows@Macaw的窗户
+- (极简血量显示) [Neat]("https://www.mcmod.cn/class/619.html")
+- (维克的现代战争) [Modern Warfare-Content Pack]("https://www.mcmod.cn/class/595.html")
+- <font color=#75C940>(AI减速器)</font> [AI Reducer]("https://www.mcmod.cn/class/4730.html")
+- <font color=#75C940>(滑翔翼)</font> [Open Glider]("https://www.mcmod.cn/class/797.html")
+- <font color=#75C940>(阵法)</font> [Magic Circle]("https://www.mcmod.cn/class/2817.html")
+- <font color=#75C940>(降世神通：突破冰山)</font> [Avatar Mod 2: Out of the Iceberg]("https://www.mcmod.cn/class/3405.html")
+- <font color=#75C940>(邪恶工艺)</font> [EvilCraft]("https://www.mcmod.cn/class/352.html")
+- <font color=#75C940>(幸存者)</font> [RealSurvivor]("https://www.mcmod.cn/class/2963.html")
+- <font color=#75C940>(狼铠)</font> [Wolf Armor and Storage]("https://www.mcmod.cn/class/607.html")
+- <font color=#75C940>(细菌病毒3)</font> [Bionisation 3]("https://www.mcmod.cn/class/1726.html")
+- <font color=#75C940>(流血)</font> [Lightweight Blood Mechanics]("https://www.mcmod.cn/class/3420.html")
+- <font color=#75C940>午夜)</font> [The Midnight(]("https://www.mcmod.cn/class/2148.html")
 
 ## 待定
 
-    - <font color=#75C940>(敌对世界-入侵)</font> [Hostile Worlds - Invasions]("https://www.mcmod.cn/class/1713.html")
-    - <font color=#75C940>(墓碑坟墓 - 拓展)</font> [Gravestone mod - Extended]("https://www.mcmod.cn/class/4330.html")
-    -  [Miskatonic Mysteries]("https://www.mcmod.cn/class/4608.html")
-    - <font color=#75C940>(混沌之地)</font> [The Erebus]("https://www.mcmod.cn/class/292.html")
-    - <font color=#75C940>(Wesley的冒险地牢)</font> [Wesley's Roguelike Dungeons]("https://www.mcmod.cn/class/2117.html")
-    - <font color=#75C940>(克苏鲁世界)</font> [Cthulhu Mythos]("https://www.mcmod.cn/class/4902.html")
-    - <font color=#75C940>(石像鬼)</font> [Gargoyles]("https://www.mcmod.cn/class/1461.html")
-    - <font color=#75C940>(游戏阶段)</font> [Game Stages]("https://www.mcmod.cn/class/1360.html")
-    - <font color=#75C940>(FTB交易)</font> [FTB Money]("https://www.mcmod.cn/class/1910.html")
-    - <font color=#75C940>(FTB任务)</font> [FTB Quests]("https://www.mcmod.cn/class/1423.html")
-    - <font color=#75C940>(自定义加载画面)</font> [Custom Loading Screen]("https://www.mcmod.cn/class/2867.html")
-    - <font color=#75C940>(更好的FPS)</font> [BetterFPS]("https://www.mcmod.cn/class/1384.html")
-    - <font color=#75C940>(AI改进)</font> [AI Improvements]("https://www.mcmod.cn/class/1480.html")
-    - <font color=#75C940>(内存自动清理)</font> [Memory Cleaner Mod]("https://www.mcmod.cn/class/3233.html")
-    - <font color=#797EC9>(遗迹)</font> [Ruins]("https://www.mcmod.cn/class/1860.html")
-    - <font color=#797EC9>(失落废墟)</font> [Additional Structures/Rex's Additional Structures]("https://www.mcmod.cn/class/2049.html")
-    - <font color=#797EC9>(自然建筑生成)</font> [Recurrent Complex]("https://www.mcmod.cn/class/1518.html?tdsourcetag=s_pcqq_aiomsg")
-    - <font color=#797EC9>(魔法王国)</font> [Magic Kingdoms Mod/Schools of Magic Mod]("https://www.mcmod.cn/class/353.html")
-    - <font color=#797EC9>(等价交换重制版)</font> [ProjectE]("https://www.mcmod.cn/class/353.html")
-    - <font color=#75C940>(线程优化)</font> [TickThreading]("https://www.mcmod.cn/class/199.html")
-    - <font color=#75C940>(Thicc 实体)</font> [thiccentities]("https://www.curseforge.com/minecraft/mc-mods/thicc-entities")
-    - <font color=#FFAF38>(地幔)</font> [Mantle]("https://www.mcmod.cn/class/329.html")
-        - 前置：匠魂2
+- <font color=#75C940>(敌对世界-入侵)</font> [Hostile Worlds - Invasions]("https://www.mcmod.cn/class/1713.html")
+- <font color=#75C940>(墓碑坟墓 - 拓展)</font> [Gravestone mod - Extended]("https://www.mcmod.cn/class/4330.html")
+-  [Miskatonic Mysteries]("https://www.mcmod.cn/class/4608.html")
+- <font color=#75C940>(混沌之地)</font> [The Erebus]("https://www.mcmod.cn/class/292.html")
+- <font color=#75C940>(Wesley的冒险地牢)</font> [Wesley's Roguelike Dungeons]("https://www.mcmod.cn/class/2117.html")
+- <font color=#75C940>(克苏鲁世界)</font> [Cthulhu Mythos]("https://www.mcmod.cn/class/4902.html")
+- <font color=#75C940>(石像鬼)</font> [Gargoyles]("https://www.mcmod.cn/class/1461.html")
+- <font color=#75C940>(游戏阶段)</font> [Game Stages]("https://www.mcmod.cn/class/1360.html")
+- <font color=#75C940>(FTB交易)</font> [FTB Money]("https://www.mcmod.cn/class/1910.html")
+- <font color=#75C940>(FTB任务)</font> [FTB Quests]("https://www.mcmod.cn/class/1423.html")
+- <font color=#75C940>(自定义加载画面)</font> [Custom Loading Screen]("https://www.mcmod.cn/class/2867.html")
+- <font color=#75C940>(更好的FPS)</font> [BetterFPS]("https://www.mcmod.cn/class/1384.html")
+- <font color=#75C940>(AI改进)</font> [AI Improvements]("https://www.mcmod.cn/class/1480.html")
+- <font color=#75C940>(内存自动清理)</font> [Memory Cleaner Mod]("https://www.mcmod.cn/class/3233.html")
+- <font color=#797EC9>(遗迹)</font> [Ruins]("https://www.mcmod.cn/class/1860.html")
+- <font color=#797EC9>(失落废墟)</font> [Additional Structures/Rex's Additional Structures]("https://www.mcmod.cn/class/2049.html")
+- <font color=#797EC9>(自然建筑生成)</font> [Recurrent Complex]("https://www.mcmod.cn/class/1518.html?tdsourcetag=s_pcqq_aiomsg")
+- <font color=#797EC9>(魔法王国)</font> [Magic Kingdoms Mod/Schools of Magic Mod]("https://www.mcmod.cn/class/353.html")
+- <font color=#797EC9>(等价交换重制版)</font> [ProjectE]("https://www.mcmod.cn/class/353.html")
+- <font color=#75C940>(线程优化)</font> [TickThreading]("https://www.mcmod.cn/class/199.html")
+- <font color=#75C940>(Thicc 实体)</font> [thiccentities]("https://www.curseforge.com/minecraft/mc-mods/thicc-entities")
+- <font color=#FFAF38>(地幔)</font> [Mantle]("https://www.mcmod.cn/class/329.html")
+    - 前置：匠魂2
