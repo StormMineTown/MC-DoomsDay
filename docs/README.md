@@ -22,13 +22,9 @@
   </a>
 </p>
 
-# MC-末日(名字待定...)
-
 ## 简介
 
--  [MC百科]("https://www.mcmod.cn/")
--  [MCBBS]("https://www.mcbbs.net/")
--  [CouseForge]("https://www.curseforge.com/minecraft/")
+这是由`xingran``xinsheng``zcry``zihan`
 
 ### 议员颜色
 
