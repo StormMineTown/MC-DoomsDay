@@ -18,7 +18,7 @@
   </a>
   <!-- Minecraft -->
   <a href="https://discord.gg/scjqr7Bq">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Minecraft-1.20.*-brightgreen?logo=Minecraft&label=%20&labelColor=grey">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Minecraft-1.12.2-brightgreen?logo=Minecraft&label=%20&labelColor=grey">
   </a>
 </p>
 
