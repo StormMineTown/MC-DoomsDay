@@ -22,7 +22,21 @@
   </a>
 </p>
 
+# MC-末日(名字待定...)
 
-### 感谢
+## 简介
+
+-  [MC百科]("https://www.mcmod.cn/")
+-  [MCBBS]("https://www.mcbbs.net/")
+-  [CouseForge]("https://www.curseforge.com/minecraft/")
+
+### 议员颜色
+
+- <font color=#75C940>#星染</font>
+- <font color=#797EC9>#死者刘某</font>
+- <font color=#FFAF38>#周涵</font>
+- <font color=#DC2D1E>#鑫生</font>
+
+## 感谢
 [主题](https://github.com/boopathikumar018/docsify-darklight-theme)
 [文档](https://github.com/docsifyjs/docsify)
