@@ -219,13 +219,12 @@
 - (帷幕彼端) [Beyond The Veil]("https://www.mcmod.cn/class/2398.html")
 - (虚空工艺) [VoidCraft]("https://www.mcmod.cn/class/1355.html")
 - (末影接口) [Ender IO]("https://www.mcmod.cn/class/181.html")
-- (电容信息显示) [Loot Capacitor Tooltips]("https://www.mcmod.cn/class/1792.html")
 - (SCP基金会：封锁) [SCP: Lockdown]("https://www.mcmod.cn/class/1381.html")
 - (scp重型收容区扩展) [SCP: Lockdown Heavy Containment Zone Expansion]("https://www.mcmod.cn/class/1889.html")
 - (SCPCraft - 下降) [SCPCraft - Decline]("https://www.mcmod.cn/class/2017.html")
 
 ## 已删除or不添加
-
+- (电容信息显示) [Loot Capacitor Tooltips]("https://www.mcmod.cn/class/1792.html")[奶奶的有BUG，删了]
 - Flan's Mod@Flan的枪械
 - mobsunscreen@ [防晒霜]("https://www.mcmod.cn/class/2571.html")
 - furniture@MrCrayfish 的家具
